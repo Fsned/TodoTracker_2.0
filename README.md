@@ -9,5 +9,5 @@ Instead of constructing a label, 2 buttons and a checkbutton for each task, we s
 
 Window should automatically resize to accomodate tasks
 
-
+New task-name entry skal have en 'Enter' event, så man kan trykke <Enter> i stedet for at trykke på 'Add'-Button.
 
