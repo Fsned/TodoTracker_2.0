@@ -11,3 +11,5 @@ Window should automatically resize to accomodate tasks
 
 New task-name entry skal have en 'Enter' event, så man kan trykke <Enter> i stedet for at trykke på 'Add'-Button.
 
+
+Der skal være smart colour-scheme system, så colour scheme kan skiftes mellem e.g. 2 schemes (Light & Dark?)
